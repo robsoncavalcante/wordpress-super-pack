@@ -1,0 +1,4 @@
+interface:
+  display_name: WordPress Solutions
+  short_description: Desenvolva soluções WordPress seguras e escaláveis
+  default_prompt: Planeje e implemente esta solução WordPress com arquitetura explícita, segurança, compatibilidade, testes e rollback.
